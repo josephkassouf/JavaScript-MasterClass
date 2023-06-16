@@ -17,15 +17,19 @@ The course is a comprehensive guide to JavaScript, covering a wide range of topi
 ### Section 4 JavaScript in the Browser: DOM & Events Fundamentals 
 
 **Project 1 Source Code**: https://github.com/josephkassouf/JavaScript-MasterClass/tree/main/Section-4-Project-1-Guess-My-Number
+
 **Project 1: Guess my Number**: https://guess-my-number333.netlify.app
-
+***
 **Project 2 Source Code**: https://github.com/josephkassouf/JavaScript-MasterClass/tree/main/Section-4-Project-2-Modal
+
 **Project 2: Modal**: https://prismatic-kelpie-d7957c.netlify.app
-
+***
 **Project 3 Source Code**: https://github.com/josephkassouf/JavaScript-MasterClass/tree/main/Section-4-Project-3-Pig-Game
-**Project 3: Pig-Game**: https://candid-lamington-93ea87.netlify.app
 
+**Project 3: Pig-Game**: https://candid-lamington-93ea87.netlify.app
+***
 **Project 4 Source Code**: https://github.com/josephkassouf/JavaScript-MasterClass/tree/main/Section-4-Project-4-Simon-Game
+
 **Project 4: Simon-Game**: https://soft-monstera-ac31bc.netlify.app
 
 ***
