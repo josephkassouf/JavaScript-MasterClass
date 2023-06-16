@@ -3,93 +3,82 @@ The course is a comprehensive guide to JavaScript, covering a wide range of topi
 
 ***
 ### Section 1 JavaScript Fundamentals Part 1
-**Source Code**: 
-
-**Project Link**: 
+**Source Code**: https://github.com/josephkassouf/JavaScript-MasterClass/tree/main/Section-1-Fundamentals-Part-1
 
 ***
 ### Section 2 JavaScript Fundamentals Part 2
-**Source Code**: 
-
-**Project Link**: 
+**Source Code**: https://github.com/josephkassouf/JavaScript-MasterClass/tree/main/Section-2-Fundamentals-Part-2
 
 ***
 ### Section 3 HTML & CSS Crash Course
-**Source Code**: 
-
-**Project Link**: 
+**Source Code**: https://github.com/josephkassouf/JavaScript-MasterClass/tree/main/Section-3-HTML-CSS
 
 ***
 ### Section 4 JavaScript in the Browser: DOM & Events Fundamentals 
-**Source Code**: 
 
-**Project Link**: 
+**Project 1 Source Code**: https://github.com/josephkassouf/JavaScript-MasterClass/tree/main/Section-4-Project-1-Guess-My-Number
+**Project 1: Guess my Number**: https://guess-my-number333.netlify.app
+
+**Project 2 Source Code**: https://github.com/josephkassouf/JavaScript-MasterClass/tree/main/Section-4-Project-2-Modal
+**Project 2: Modal**: https://prismatic-kelpie-d7957c.netlify.app
+
+**Project 3 Source Code**: https://github.com/josephkassouf/JavaScript-MasterClass/tree/main/Section-4-Project-3-Pig-Game
+**Project 3: Pig-Game**: https://candid-lamington-93ea87.netlify.app
+
+**Project 4 Source Code**: https://github.com/josephkassouf/JavaScript-MasterClass/tree/main/Section-4-Project-4-Simon-Game
+**Project 4: Simon-Game**: https://soft-monstera-ac31bc.netlify.app
 
 ***
 ### Section 5 How JavaScript Works Behind the Scenes
-**Source Code**: 
-
-**Project Link**: 
+**Source Code**: https://github.com/josephkassouf/JavaScript-MasterClass/tree/main/Section-5-Behind-the-Scenes
 
 ***
 ### Section 6 Data Structures, Modern Operators & Strings
-**Source Code**: 
-
-**Project Link**: 
+**Source Code**: https://github.com/josephkassouf/JavaScript-MasterClass/tree/main/Section-6-Data-Structures-Operators
 
 ***
 ### Section 7 A Closer Look at Functions
-**Source Code**: 
-
-**Project Link**: 
+**Source Code**: https://github.com/josephkassouf/JavaScript-MasterClass/tree/main/Section-7-Functions
 
 ***
 ### Section 8 Working with Arrays
-**Source Code**: 
 
-**Project Link**: 
+**Source Code**: https://github.com/josephkassouf/JavaScript-MasterClass/tree/main/Section-8-Project-Bankist
+
+**Project Link**: https://warm-sunshine-0b4084.netlify.app
 
 ***
 ### Section 9 Numbers, Dates, Intl and Timers
-**Source Code**: 
-
-**Project Link**: 
+**Source Code**: https://github.com/josephkassouf/JavaScript-MasterClass/tree/main/Section-9-Numbers-Dates-Timers-Bankist
 
 ***
 ### Section 10 Advanced DOM and Events
-**Source Code**: 
 
-**Project Link**: 
+**Source Code**: https://github.com/josephkassouf/JavaScript-MasterClass/tree/main/Section-10-Advanced-DOM-Bankist
+
+**Project Link**: https://bejewelled-jalebi-586663.netlify.app
 
 ***
 ### Section 11 Object-Oriented Programming
-**Source Code**: 
-
-**Project Link**: 
+**Source Code**: https://github.com/josephkassouf/JavaScript-MasterClass/tree/main/Section-11-OOP
 
 ***
 ### Section 12 Map Project
-**Source Code**: 
+**Source Code**: https://github.com/josephkassouf/JavaScript-MasterClass/tree/main/Section-12-Project-Geolocation-Map
 
-**Project Link**: 
+**Project Link**: https://earnest-salmiakki-679709.netlify.app
 
 ***
 ### Section 13 Asynchronous JavaScript: Promises, Async/ Await, and AJAX
-**Source Code**: 
-
-**Project Link**: 
+**Source Code**: https://github.com/josephkassouf/JavaScript-MasterClass/tree/main/Section-13-Asynchronous
 
 ***
 ### Section 14 Modern JavScript Development: Modules, Tooling and Functional
-**Source Code**: 
-
-**Project Link**: 
+**Source Code**: https://github.com/josephkassouf/JavaScript-MasterClass/tree/main/Section-14-Modern-JS-Modules-Tooling
 
 ***
 ### Section 15 Forkify Project
-**Source Code**: 
-
-**Project Link**: 
+**Source Code**: https://github.com/josephkassouf/JavaScript-MasterClass/tree/main/Section-15-Project-Forkify
 
 ***
 
