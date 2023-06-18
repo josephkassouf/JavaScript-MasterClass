@@ -86,6 +86,6 @@ The course is a comprehensive guide to JavaScript, covering a wide range of topi
 
 ***
 
-#### Udemy Certificate Link: <https://udemy-certificate.s3.amazonaws.com/pdf/UC-4b54a2e7-96ce-4802-8be5-382e2ab6229f.pdf/>
+#### Udemy Certificate Link: <https://www.udemy.com/certificate/UC-4b54a2e7-96ce-4802-8be5-382e2ab6229f/>
 
 ![Git-Hub-Certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-4b54a2e7-96ce-4802-8be5-382e2ab6229f.jpg)
